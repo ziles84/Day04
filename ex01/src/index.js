@@ -4,7 +4,7 @@ function main(numOne, numTwo){
 
   if(numTwo === 0){
 
-    quotient = 'Divide by 0! Cannot divide by zero';
+    quotient = 'Divide by 0! Cannot divide by zero!';
 
   } else {
 
